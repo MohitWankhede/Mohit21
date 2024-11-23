@@ -24,6 +24,6 @@ public class Lecture_3_to_12_Practice {
 		searchBox.sendKeys("samsung s23");
 		searchBox.submit();
 		
-		// Continue...remaining code
+		// Continue...
 	}
 }
